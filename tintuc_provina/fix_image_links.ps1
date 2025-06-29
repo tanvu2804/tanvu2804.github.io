@@ -42,4 +42,4 @@ foreach ($file in $htmlFiles) {
 
 Write-Host "`nHoàn thành!" -ForegroundColor Green
 Write-Host "Tổng cộng đã thay thế $totalReplacements link ảnh" -ForegroundColor Green
-Write-Host "Tất cả các link ảnh đã được chuyển từ 'https://web.archive.org/web/YYYYMMDDHHMMSSim_/https://...' thành 'https://...'" -ForegroundColor Green 
+Write-Host "Tất cả các link ảnh đã được chuyển từ 'https://web.archive.org/web/YYYYMMDDHHMMSSim_/https://...' thành 'https://...'" -ForegroundColor Green

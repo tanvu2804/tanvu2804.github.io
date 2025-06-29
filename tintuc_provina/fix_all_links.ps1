@@ -38,4 +38,4 @@ foreach ($file in $textFiles) {
 
 Write-Host "\nHoàn thành!" -ForegroundColor Green
 Write-Host "Tổng cộng đã thay thế $totalReplacements link" -ForegroundColor Green
-Write-Host "Tất cả các link đã được chuyển về link gốc phía sau web.archive.org" -ForegroundColor Green 
+Write-Host "Tất cả các link đã được chuyển về link gốc phía sau web.archive.org" -ForegroundColor Green
